@@ -1,6 +1,14 @@
 # Screen Awake
 
-一个简单的 macOS 菜单栏工具，用来保持屏幕常亮，避免系统自动息屏。
+一个轻量的 macOS 菜单栏工具，用来保持屏幕常亮，避免系统自动息屏。
+
+[Download Latest Release](https://github.com/FanMiLi666/screen-awake/releases/latest)
+
+## Features
+
+- 保持屏幕常亮
+- 菜单栏后台运行
+- 体积小，无复杂配置
 
 ## App
 
@@ -11,7 +19,7 @@
 
 ## 使用方式
 
-1. 下载或克隆本仓库。
+1. 从 [Releases](https://github.com/FanMiLi666/screen-awake/releases/latest) 下载 zip。
 2. 将 `屏幕常亮.app` 拖到 `Applications` 文件夹。
 3. 双击打开应用。
 
